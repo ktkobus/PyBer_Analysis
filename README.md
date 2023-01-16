@@ -27,9 +27,8 @@ The line graph shows that the year started off pretty slow and gradually picked 
 
 ### Summary
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results of my analysis, I recommend the following:
 
-Based on the results of my analysis, I recommend the following
 - PyBer should increase recruitment for drivers in rural areas, this will increase the total number of drivers and bring the average fair per ride and driver down to be more equivalent to urban and suburban areas.
 - A limit of how many total drivers should be implemented in urban areas. Urban areas have almost 3 times as many drivers per ride as rural areas and twice as many drivers per ride as suburban areas. By limiting the number of drivers in urban areas, this will bring the average fare per ride and average fare per driver to be more equivalent to suburban and rural areas.
 - More advertising for rideshare options in rural areas should also increase ridership which will increase the total fares that will be brought in in the area.
